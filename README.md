@@ -112,7 +112,7 @@ matemáticas como: Math min, Math max**
 Realize a montagem do teste de mesa para validar a lógica do seu
 algorítimo, use esse recurso antes de recorrer a ajuda do suporte. Se
 estiver com dúvidas em como utilizar a tabela, veja a aula de
-**Aquecimento: Fazendo o Tracing Manual de Códigos** para entender os
+**Aqueciamento: Fazendo o Tracing Manul de Códigos** para entender os
 passos. **O teste de mesa é obrigatório para a entrega**.
 
 ::: {.tableTest}
